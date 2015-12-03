@@ -1,2 +1,4 @@
 # TestGibHub
-grh3GetHub Tutorial
+grh3GetHub TutoriaL
+Online tutorial covering the bare minium
+of GitHub
